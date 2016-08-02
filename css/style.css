@@ -1,0 +1,158 @@
+
+
+#image-body {
+	height: 300px;
+}
+
+
+#gmail-name {
+	width: 35px;
+	height: 25px;
+	float: right;
+	text-align: center;
+}
+
+#gmail {
+	width: 40px;
+	height: 20px;
+	float: right;
+	text-align: center;
+}
+
+#Images {
+	width: 55px;
+	height: 20px;
+	float: right;
+	text-align: center;
+}
+
+#grid-pic {
+	width: 40px;
+	height: 21px;
+	float: right;
+	text-align: center;
+}
+
+#bell-pic {
+	width: 30px;
+	height: 30px;
+	float: right;
+}
+
+#share-icon {
+	width: 38px;
+	height: 20px;
+	float: right;
+	text-align: center;
+}
+
+#gmail-user-pic {
+	width: 50px;
+	height: 50px;
+	float: right;
+}
+
+#image {
+	margin-top: 150px;
+}
+
+#search-box-buttons {
+	text-align: center;
+	margin: 12px;
+}
+
+#footer-menu {
+	position: absolute;
+    bottom: 0;
+    width: 78%;
+    height: 35px;
+
+}
+
+#footer-right {
+	float: right;
+}
+
+#footer-left {
+	float: left;
+}
+
+#advertising {
+	width: 77px;
+	height: 25px;
+	float: left;
+	text-align: center;
+}
+
+#business {
+	width: 75px;
+	height: 25px;
+	float: left;
+	text-align: center;
+}
+
+#about {
+	width: 40px;
+	height: 25px;
+	float: left;
+	text-align: center;
+}
+
+#privacy {
+	width: 55px;
+	height: 25px;
+	float: right;
+	text-align: center;
+}
+
+#terms {
+	width: 50px;
+	height: 25px;
+	float: right;
+	text-align: center;
+}
+
+#settings {
+	width: 60px;
+	height: 25px;
+	float: right;
+	text-align: center;
+}
+
+input[type="text"] {
+    width: 550px;
+    height: 40px;
+    border-style: groove;
+    border-color: #99DDFF;
+}
+
+#search-button {
+	height: 26px;
+	width: 60px;
+	text-align: center;
+	display: inline-block;
+	background-color: #D3D3D3;
+	padding: 0;
+	border: none;
+
+}
+
+#im-feeling-lucky {
+	height: 26px;
+	width: 130px;
+	text-align: center;
+	display: inline-block;
+	background-color: #D3D3D3;
+	padding: 0;
+	border: none;
+}
+
+#search {
+	text-align: center;
+}
+
+
+
+
+
+
